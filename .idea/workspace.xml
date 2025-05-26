@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcfbe27d-6fa9-495f-85a7-b5ace6246f32" name="Changes" comment="" />
+    <list default="true" id="dcfbe27d-6fa9-495f-85a7-b5ace6246f32" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/categories/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/categories/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/categories/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/categories/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/categories/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/categories/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/common/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/common/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/homepage/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/homepage/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/projects/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/projects/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/projects/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/projects/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/projects/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/projects/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/users/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/crowdfunding_project/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +27,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ayaemx"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ayaemx/crowdfunding_project.git",
+    "accountId": "0a422cf3-5485-4f21-b392-12004f05c90a"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2xcHqiukfULOPdiyY8GAz1XKo6d" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,7 +51,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
